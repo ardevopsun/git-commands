@@ -1,4 +1,4 @@
-# **Git Commands…..******
+# **Most Used Git Commands…..**
 
 # DOWNLOAD & INSTALL
 
