@@ -91,13 +91,13 @@ $ git mv file_name directory_name
 
 $ git commit -a -m "COMMIT MESSAGE" 
 
-**Change the last commit files or messages **
+**Change the last commit files or messages**
 
 $ git commit--amend -m "Commit msg" 
 
 # COMMIT HISTORY
 
-**Command to verify last Commits **
+**Command to verify last Commits**
 
 $ git log
 
@@ -105,7 +105,7 @@ $ git log
 
 $ git log -p <file>
 
-**Get GIT abbrev Commit Hash **
+**Get GIT abbrev Commit Hash**
 
 $ git log -- abbrev-log
 
@@ -121,11 +121,11 @@ $ git log--since="2 days ago"
 
 $ git show <commit_id>
 
-**Show changes over time for a specific file **
+**Show changes over time for a specific file**
 
 $ git log -p <file>
 
-**Who changed what and when in file **
+**Who changed what and when in file**
 
 $ git blame <file>
 
@@ -135,11 +135,11 @@ $ git reflog --all
 
 # COMPARISON IN GIT
 
-**Compare Working Directory & Stage Area **
+**Compare Working Directory & Stage Area**
 
 $ git diff
 
-**Compare Work Directory and GIT Repo **
+**Compare Work Directory and GIT Repo**
 
 $ git diff HEAD
 
